@@ -1,0 +1,22 @@
+# LangChain Core
+langchain
+langchain-Google-genai
+langchain_community
+langchain-huggingface 
+sentence-transformers
+langchain-groq
+
+# Environment Variable Management
+python-dotenv
+
+#streamlit
+streamlit
+chromadb
+
+pypdf
+pymupdf
+unstructured
+pdf2image
+pdfminer.six 
+unstructured_pytesseract 
+unstructured_inference
